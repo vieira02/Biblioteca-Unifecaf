@@ -59,17 +59,6 @@ Para trocar cores, edite as variáveis dentro de `:root`. Para alterar títulos 
 - O nome da instituição aparece como identificação do projeto acadêmico. A marca tipográfica é uma representação de interface, não um arquivo oficial de logotipo.
 - Esta versão não contém login, banco de dados, busca integrada, empréstimo ou reserva. Os botões direcionam aos canais públicos institucionais.
 
-## Publicar com GitHub Pages
-
-1. Crie um repositório público no GitHub.
-2. Envie o conteúdo desta pasta para a raiz do repositório, mantendo os caminhos `index.html` e `css/style.css`.
-3. Abra **Settings → Pages** no repositório.
-4. Em **Build and deployment**, escolha **Deploy from a branch**.
-5. Selecione a branch principal (normalmente `main`) e a pasta `/ (root)`, depois salve.
-6. Aguarde o GitHub Pages publicar e copie a URL exibida na própria tela de Pages. O formato costuma ser `https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/`.
-
-A publicação e a criação do repositório precisam ser feitas na conta do estudante. Os arquivos deste pacote ainda não foram enviados a uma conta externa.
-
 ## Fontes institucionais e técnicas
 
 - UniFECAF, Biblioteca: https://www.unifecaf.com.br/biblioteca
