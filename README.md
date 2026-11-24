@@ -1,6 +1,6 @@
 # Biblioteca Digital UniFECAF
 
-Projeto acadêmico de Design Web desenvolvido com **HTML5 e CSS3**, sem frameworks e sem JavaScript.
+Projeto acadêmico de Design Web desenvolvido com **HTML5 e CSS3**
 
 ## Como visualizar
 
